@@ -22,7 +22,7 @@ information on using pull requests.
 ## Code Style
 
 - coding style is fully defined in ........
-- code should be annotated with [closure annotations](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler)
+- code should be annotated with tyoeDoc Tags
 - comments should be generally avoided. If the code would not be understood without comments, consider re-writing the code to make it self-explanatory
 
 To run code linter, use:
