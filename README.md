@@ -10,4 +10,4 @@
 - [ ] test case definition - chai , mocha or karma 
 - [ ] prettier - https://prettier.io/docs/en/editors.html
 - [ ] .vscode config
-- [ ] 
+- [ ] Codecoverage 
